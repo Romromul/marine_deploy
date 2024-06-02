@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Birthstone&family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Lavishly+Yours&family=Pinyon+Script&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
